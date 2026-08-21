@@ -1,2 +1,0 @@
-# azure
-just azure things
